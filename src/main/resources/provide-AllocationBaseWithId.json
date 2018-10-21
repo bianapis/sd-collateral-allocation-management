@@ -1,0 +1,21 @@
+{
+  "allocationRequestReference" : "ARR123",
+  "collateralAllocationRequestResult" : {},
+  "collateralAllocationRecallAmount" : "$10000",
+  "collateralAssetAllocationState" : "Pending confirmation",
+  "collateralAllocationRecallTimetable" : "collateralAllocationRecallTimetable",
+  "customerOfferReference" : "COFR0390",
+  "collateralAssetValuationDate" : "2018-07-31",
+  "collateralAllocationDuration" : "12Months",
+  "collateralAssetAllocationProfile" : "DomesticResidence",
+  "collateralEarmarkDuration" : "12Months",
+  "productInstanceReference" : "PIR123",
+  "collateralAssetReference" : "CAR123",
+  "collateralAssetValuation" : "$3000000",
+  "customerReference" : "CSRE3456",
+  "requestedAllocationRequestType" : "earmark for future allocation",
+  "collateralAllocationAmount" : "$300000",
+  "collateralAllocationRecallResult" : {},
+  "collateralEarmarkAmount" : "$50000",
+  "collateralAssetLoanToValueRatio" : "121"
+}

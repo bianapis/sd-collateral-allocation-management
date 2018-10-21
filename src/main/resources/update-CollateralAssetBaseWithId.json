@@ -1,0 +1,7 @@
+{
+  "collateralAssetReference" : "CARE2215",
+  "collateralType" : "Residential",
+  "customerReference" : "CSRE3456",
+  "collateralAssetRecord" : {},
+  "collateralAssetAllocationProfile" : "DomesticResidence"
+}
